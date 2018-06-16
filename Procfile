@@ -1,1 +1,1 @@
-worker: python notification_listener.py
+worker: python script.py
